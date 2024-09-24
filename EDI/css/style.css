@@ -1,12 +1,17 @@
-body, h1, h2, h3, p, span, a {
+body, h1, h2, h3,strong,h5,span, a {
+    font-family: 'Montserrat', sans-serif;
+    color: #C20114;
+}
+p
+{
     font-family: 'Montserrat', sans-serif;
 }
-
 body {
-    background-color: #00ffee;
+    background-color: #ECEBF3;
     margin: 0;
     padding: 3rem 1rem;
 }
+
 
 
 #empresas {
@@ -23,6 +28,11 @@ body {
     align-items: center;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
+    color: #C20114;
+}
+
+.nav-link{
+    color: #C20114;
 }
 
 #logo {
